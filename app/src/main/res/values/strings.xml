@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">TestAPP</string>
+    <string name="about">Это приложение загружает из интернета список контактов неизвестных людей и сохраняет для тоступа к контактам в off line</string>
+</resources>
