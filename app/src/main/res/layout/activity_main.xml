@@ -32,7 +32,7 @@
                 android:layout_weight="1"
                 android:layout_height="0dp"
                 android:onClick="about"
-                android:text="about as" />
+                android:text="about us" />
 
     </LinearLayout>
 
